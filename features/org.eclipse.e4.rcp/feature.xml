@@ -292,6 +292,13 @@
          version="0.0.0"/>
 
    <plugin
+         id="org.eclipse.swt.gtk.solaris.x86_64"
+         os="solaris"
+         ws="gtk"
+         arch="x86_64"
+         version="0.0.0"/>
+
+   <plugin
          id="org.eclipse.swt.cocoa.macosx.x86_64"
          os="macosx"
          ws="cocoa"
